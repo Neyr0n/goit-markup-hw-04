@@ -465,6 +465,11 @@ body {
   color: #FFFFFF;
 }
 
+.team-icons-item-ftr:hover,
+.team-icons-item-ftr:focus{
+  background-color: #31d0aa;
+}
+
 .team-icons-ftr {
   gap: 16px;
 }
