@@ -470,6 +470,10 @@ body {
 }
 
 .team-icons-link.ftr {
-  background-color: #31d0aa;
+  
   padding: 8px;
+}
+.team-icons-link.ftr:hover,
+.team-icons-link.ftr:focus{
+  background-color: #31d0aa;
 }
